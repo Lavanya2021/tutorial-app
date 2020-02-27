@@ -1,0 +1,12 @@
+body {
+    font-family: Simonetta;
+}
+
+header{
+    background: #9b9be9;
+    text-align: center;
+}
+
+.logo { justify-content: center; text-align: center; color: white;padding: 15px 0;}
+
+img { width: 100px ; height: 100px; }
